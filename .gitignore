@@ -2,3 +2,4 @@ venv
 datasets
 .vscode
 __pycache__
+groundingdino_swint_ogc.pth
