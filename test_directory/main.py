@@ -1,5 +1,5 @@
 from pathlib import Path
-from GroundingDINO.groundingdino.util.inference import load_model, predict, annotate
+from groundingdino.util.inference import load_model, predict, annotate
 
 ROOT = Path.cwd()
 WEIGHTS_NAME = "groundingdino_swint_ogc.pth"
